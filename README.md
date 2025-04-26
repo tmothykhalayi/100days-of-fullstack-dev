@@ -6,7 +6,6 @@ This document serves as a README for my 10-day recap on fundamental web manipula
 1. **HTML Basics**: Understanding the structure of web pages, semantic elements, and best practices for writing clean HTML.
 2. **CSS Fundamentals**: Styling web pages with CSS, including selectors, properties, and responsive design techniques.
 3. **JavaScript Essentials**: Learning the basics of JavaScript, DOM manipulation, and event handling.
-
 ### Practical Applications
 - Building static web pages with semantic HTML and CSS.
 - Creating responsive layouts using media queries and flexbox.
