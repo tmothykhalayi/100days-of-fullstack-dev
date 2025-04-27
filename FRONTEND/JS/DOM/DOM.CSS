@@ -1,0 +1,17 @@
+body {
+    font-size: 24px;
+    font-weight: 200;
+    border: 24px;
+    background-color: antiquewhite;
+
+    
+}
+.list-items {
+    border: 2px bold;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+
+}
