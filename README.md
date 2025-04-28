@@ -50,7 +50,6 @@ Creating responsive layouts using Flexbox and Grid for adaptive designs.
 Adding JavaScript interactivity, like form validation, toggling visibility, and handling user input dynamically.
 
 TypeScript integration: Rewriting JavaScript code in TypeScript for added type safety and debugging features, especially in larger applications.
-
 Goals:
 By the end of this recap, I aim to:
 
