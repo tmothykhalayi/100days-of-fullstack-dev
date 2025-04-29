@@ -52,7 +52,6 @@ Adding JavaScript interactivity, like form validation, toggling visibility, and 
 TypeScript integration: Rewriting JavaScript code in TypeScript for added type safety and debugging features, especially in larger applications.
 Goals:
 By the end of this recap, I aim to:
-
 Strengthen my understanding of core web development concepts, including TypeScript.
 
 Build projects such as a portfolio page or simple web app to showcase these skills.
