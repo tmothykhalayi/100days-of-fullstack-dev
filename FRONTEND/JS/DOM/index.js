@@ -1,7 +1,3 @@
-let x =document.getElementById("mybtn");
-x.addEventListener("click",functioneventlistener);
-    function functioneventlistener(){
-        x.style.backgroundColor="blue";
-        x.style.color="green";
-
-    }
+document.body.style.backgroundColor ="lightblue";
+ let element =document.getElementById("mytitle");
+element.style.textDecorationColor = "green";
