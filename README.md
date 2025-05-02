@@ -3,7 +3,6 @@ This document serves as a README for my 10-day recap on fundamental web manipula
 
 Topics Covered:
 HTML Basics
-
 Overview of web page structure.
 
 Key tags and semantic elements (<header>, <footer>, <article>, <section>, etc.).
