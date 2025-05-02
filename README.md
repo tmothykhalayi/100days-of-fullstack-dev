@@ -9,7 +9,6 @@ Overview of web page structure.
 Key tags and semantic elements (<header>, <footer>, <article>, <section>, etc.).
 
 Best practices for clean, accessible, and SEO-friendly HTML.
-
 CSS Fundamentals
 
 Introduction to selectors, properties, and values.
