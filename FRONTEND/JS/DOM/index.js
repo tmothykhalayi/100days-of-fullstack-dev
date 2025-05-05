@@ -9,10 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
     let todos = [];
     
     // Load todos from localStorage if available
-    if (localStorage.getItem('todos')) {
-        todos = JSON.parse(localStorage.getItem('todos'));
-        renderTodos();
-    }
+    
     
     // Form submission handler
     form.addEventListener('submit', function(event) {
