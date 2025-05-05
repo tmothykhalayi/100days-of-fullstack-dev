@@ -88,7 +88,7 @@ document.addEventListener('DOMContentLoaded', function() {
             todoList.appendChild(li);
         });
     }
-    
+
     // Function to save todos to localStorage
     function saveTodos() {
         localStorage.setItem('todos', JSON.stringify(todos));
