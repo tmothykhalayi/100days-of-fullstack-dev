@@ -11,7 +11,6 @@ Best practices for clean, accessible, and SEO-friendly HTML.
 CSS Fundamentals
 
 Introduction to selectors, properties, and values.
-
 Styling text, colors, background, and borders.
 
 Layout techniques: Flexbox, Grid, and Media Queries for responsive design.
