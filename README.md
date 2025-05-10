@@ -4,7 +4,7 @@ Topics Covered:
 HTML Basics
 Overview of web page structure.
 
-Key tags and semantic elements (<header>, <footer>, <article>, <section>, etc.).
+Key tags and semantic elements (<header>, <footer>, <article>, <section>,).
 
 Best practices for clean, accessible, and SEO-friendly HTML.
 CSS Fundamentals
