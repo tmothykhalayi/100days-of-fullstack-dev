@@ -16,7 +16,6 @@ Styling text, colors, background, and borders.
 Layout techniques: Flexbox, Grid, and Media Queries for responsive design.
 
 Understanding the box model, margins, padding, and positioning.
-
 JavaScript Essentials
 
 Variables and data types: let, const, var, arrays, and objects.
