@@ -35,7 +35,7 @@ Using interfaces and classes for better structure and scalability in projects.
 
 Type assertions and TypeScript’s error-checking during development.
 
-Integrating TypeScript with existing JavaScript code.
+Integrating TypeScript with existing JavaScript code
 
 Practical Applications:
 Building static web pages with HTML and CSS, such as a personal webpage or a landing page.
