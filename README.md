@@ -1,11 +1,10 @@
 10-Day Recap: HTML, CSS, JavaScript, and TypeScript
 This document serves as a README for my 10-day recap on fundamental web manipulation concepts, including HTML, CSS, JavaScript, and TypeScript. It outlines the key topics covered and provides insights into the practical applications of these technologies.
-
 Topics Covered:
 HTML Basics
 Overview of web page structure.
 
-Key tags and semantic elements (<header>, <footer>, <article>, <section>, etc.).
+Key tags and semantic elements (<header>, <footer>, <article>, <section>,).
 
 Best practices for clean, accessible, and SEO-friendly HTML.
 CSS Fundamentals
@@ -36,7 +35,7 @@ Using interfaces and classes for better structure and scalability in projects.
 
 Type assertions and TypeScript’s error-checking during development.
 
-Integrating TypeScript with existing JavaScript code.
+Integrating TypeScript with existing JavaScript code
 
 Practical Applications:
 Building static web pages with HTML and CSS, such as a personal webpage or a landing page.
@@ -52,7 +51,7 @@ Strengthen my understanding of core web development concepts, including TypeScri
 
 Build projects such as a portfolio page or simple web app to showcase these skills.
 
-Prepare for more advanced topics in full-stack development, including backend technologies and frameworks like React.js, Node.js, and Angular, where TypeScript is commonly used.
+Prepare for more advanced topics in full-stack development, including backend technologies and frameworks like React.js, Node.js, and Angular, where TypeScript is commonly used
 
 Additional Notes on TypeScript:
 TypeScript adds optional static typing to JavaScript, which can help prevent bugs and make large-scale development more manageable. By defining explicit types for variables, function parameters, and return values, TypeScript can catch errors at compile time, making it easier to debug and scale projects.
