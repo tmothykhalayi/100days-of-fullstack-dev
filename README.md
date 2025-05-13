@@ -1,4 +1,5 @@
 
+
 10-Day Recap: HTML, CSS, JavaScript, and Typescript 
 This document serves as a README for my 10-day recap on fundamental web manipulation concepts, including HTML, CSS, JavaScript, and TypeScript. It outlines the key topics covered and provides insights into the practical applications of these technologies.
 Topics Covered:
